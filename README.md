@@ -1,2 +1,2 @@
 # hello-world
-Test repository to learn github
+Hey Guyz, this is uphar. I am here to learn github. I like programming in my leisure time.
